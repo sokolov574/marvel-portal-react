@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/marvel-portal-react/static/css/main.a821b37d.css",
+    "main.js": "/marvel-portal-react/static/js/main.724c0adb.js",
+    "static/media/vision.png": "/marvel-portal-react/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/thor.jpeg": "/marvel-portal-react/static/media/thor.533e3a5e127689ab0b1f.jpeg",
+    "static/media/abyss.jpg": "/marvel-portal-react/static/media/abyss.93d211d37b67a60bace9.jpg",
+    "static/media/mjolnir.png": "/marvel-portal-react/static/media/mjolnir.61f31e1809f12183a524.png",
+    "index.html": "/marvel-portal-react/index.html",
+    "main.a821b37d.css.map": "/marvel-portal-react/static/css/main.a821b37d.css.map",
+    "main.724c0adb.js.map": "/marvel-portal-react/static/js/main.724c0adb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a821b37d.css",
+    "static/js/main.724c0adb.js"
+  ]
+}
