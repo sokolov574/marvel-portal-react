@@ -22,5 +22,8 @@
     "sass": "latest",
     "vite": "latest"
   },
-  "type": "module"
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  }
 }
